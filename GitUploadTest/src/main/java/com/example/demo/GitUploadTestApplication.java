@@ -8,7 +8,7 @@ public class GitUploadTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitUploadTestApplication.class, args);
-		System.out.println("testupload");
+		System.out.println("testupload!!!!");
 	}
 
 }
